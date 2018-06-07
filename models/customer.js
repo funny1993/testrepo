@@ -9,3 +9,7 @@ let str = 'funny';
 function features(){
     console.log("features");
 }
+
+function ff(){
+    
+}
